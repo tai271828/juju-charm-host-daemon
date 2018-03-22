@@ -1,3 +1,6 @@
+# juju-charm-host-daemon
+This juju charm will provide a daemon on a node
+
 # Overview
 
 Describe the intended usage of this charm and anything unique about how this
